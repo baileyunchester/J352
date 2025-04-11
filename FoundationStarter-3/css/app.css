@@ -1,0 +1,47 @@
+body{
+	font-family: "Newsreader", serif;
+	font-size:17px;
+}
+h1 {
+	text-align:center;
+	font-family: "Newsreader", serif;
+}
+
+
+.box1 {
+	background-color:sandybrown;
+	height:20px;
+}
+
+.HurricaneHelene1 {
+	text-align:center;
+}
+
+.HurricaneHelene1 p {
+	text-align:center;
+}
+
+.story {
+	padding-left:10px;
+	padding-right:10px;
+}
+
+.box2 {
+	background-color:sandybrown;
+	color:white;
+	display:flex;
+	font-size:40px;
+	justify-content:center;
+	align-items:center;
+	padding:20px;
+}
+
+.box2 p{
+	padding:0 0 0 10px; 
+}
+
+.footerStyle {
+	color:white;
+	background-color:sandybrown;
+	text-align:center;
+}
