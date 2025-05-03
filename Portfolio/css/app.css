@@ -1,0 +1,26 @@
+body {
+font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Left{
+background-color: navy;
+  font-family: "Tinos", serif;
+  font-weight: 400;
+  font-style: normal;}
+
+
+.Left h1{color: wheat;}
+
+.Left h2{color: wheat;}
+
+.Left h3{color: wheat;}
+
+.boldonse-regular {
+  font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.Work h1{color: navy;}
